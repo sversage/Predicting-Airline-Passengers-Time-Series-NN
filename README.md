@@ -1,4 +1,4 @@
-# Predicting-Airline-Passengers-Time-Series-NN
+# Airline-Passengers-Time-Series-NN
 
 Using a case study from machine learning mastery, I created a time series neural net which predicts how many airline passengers there will be in the following month. 
 
